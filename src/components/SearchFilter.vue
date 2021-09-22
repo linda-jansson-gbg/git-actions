@@ -3,7 +3,7 @@
     <input type="text" v-model="searchQuery" />
     <ul>
       <li v-for="(animal, index) in filteredAnimals" :key="index">
-        <!--{{ animal }}-->
+        {{ animal }}
       </li>
     </ul>
   </div>
