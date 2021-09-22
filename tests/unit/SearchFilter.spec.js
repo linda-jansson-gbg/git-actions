@@ -60,5 +60,4 @@ describe('SearchFilter.vue', () => {
     expect(list).toContain('crow');
     expect(list).toContain('cow');
   });
-  it('should return both "ant" and "elephant" when searching for "AnT"', async () => {});
 });
