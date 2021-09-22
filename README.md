@@ -1,4 +1,5 @@
 # git-actions
+Exercise with unit tests and GitHub Actions
 
 ## Project setup
 ```
