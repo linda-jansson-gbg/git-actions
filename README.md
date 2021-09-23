@@ -1,5 +1,7 @@
 # git-actions
-Exercise with unit tests and GitHub Actions
+Exercise with unit tests and GitHub Actions<br>
+Updated with Docker and deployed on Heroku<br>
+https://lesson-jensen-23.herokuapp.com/
 
 ## Project setup
 ```
