@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <h1>Sök efter ett djur</h1>
     <input type="text" v-model="searchQuery" />
     <ul>
       <li v-for="(animal, index) in filteredAnimals" :key="index">
